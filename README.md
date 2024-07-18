@@ -1,5 +1,6 @@
+# DOWNLOAD THE EXE, NOT THE .py FILE!!!
 # Flipper-Zero-Auto-WAV
-Automatically converts mp3 audio files into the .wav format with all the fancy requirements, which are 8k-bit with 48000Hz sampling rate, stereo audio
+Automatically converts mp3 audio files into the .wav format with all the fancy requirements, which are 8k-bit with 48000Hz sampling rate, stereo audio. The .py file is for you to see how it works so you can learn or see if it is a sus file.
 
 ## Requirements:
 1. FFmpeg installed + added to your Windows Environment Variables directory
